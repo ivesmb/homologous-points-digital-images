@@ -6,4 +6,9 @@
 
 🖥️ Once all the similarity measures have been obtained, a correlation function is used to search for the sub-image in the search region that is most similar to the reference sub-image;
 
-📈 The criterion used to find the most similar (or homologous) sub-image depends on the correlation function used
+📈 The criterion used to find the most similar (or homologous) sub-image depends on the correlation function used.To do this, 5 static correlation functions are available in the code:
+
+- Error function;
+- Cross Covariance Function;
+- Cross-Correlation function and;
+- Quotient function.
