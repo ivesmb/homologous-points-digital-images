@@ -12,3 +12,5 @@
 - Cross Covariance Function;
 - Cross-Correlation function and;
 - Quotient function.
+
+![Image 1](https://github.com/ivesmb/homologous-points-digital-images/assets/69328081/7e1f8174-6e98-4f1e-b9af-b759965451d1)
